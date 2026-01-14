@@ -8,6 +8,9 @@
   },
   "private": true,
   "devDependencies": {
+    "@faker-js/faker": "^10.2.0",
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "ajv": "^8.17.1",
     "cypress": "^15.8.2"
   }
 }
